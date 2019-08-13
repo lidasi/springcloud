@@ -1,0 +1,7 @@
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-consumer\src\main\java\hik\taiji\springcloud\controller\UserHystrixController.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-consumer\src\main\java\hik\taiji\springcloud\ConfigBean.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-consumer\src\main\java\hik\taiji\springcloud\service\ConsumerServiceFallbackFactory.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-consumer\src\main\java\hik\taiji\springcloud\controller\UserFeignController.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-consumer\src\main\java\hik\taiji\springcloud\ConsumerApplication.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-consumer\src\main\java\hik\taiji\springcloud\controller\UserConsumerController.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-consumer\src\main\java\hik\taiji\springcloud\service\ConsumerService.java

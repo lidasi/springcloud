@@ -1,0 +1,7 @@
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-provider\src\main\java\hik\taiji\springcloud\controller\UserFeignController.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-provider\src\main\java\hik\taiji\springcloud\dao\UserDao.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-provider\src\main\java\hik\taiji\springcloud\ProviderApplication.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-provider\src\main\java\hik\taiji\springcloud\controller\UserHystrixController.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-provider\src\main\java\hik\taiji\springcloud\service\UserService.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-provider\src\main\java\hik\taiji\springcloud\controller\UserController.java
+D:\code\springCloudWorkSpaces\microservice-parent\microservice-provider\src\main\java\hik\taiji\springcloud\serviceImpl\UserServiceImpl.java

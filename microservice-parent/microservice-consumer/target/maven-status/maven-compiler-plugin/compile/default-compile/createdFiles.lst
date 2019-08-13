@@ -1,0 +1,8 @@
+hik\taiji\springcloud\ConsumerApplication.class
+hik\taiji\springcloud\controller\UserHystrixController.class
+hik\taiji\springcloud\service\ConsumerServiceFallbackFactory.class
+hik\taiji\springcloud\service\ConsumerServiceFallbackFactory$1.class
+hik\taiji\springcloud\ConfigBean.class
+hik\taiji\springcloud\controller\UserConsumerController.class
+hik\taiji\springcloud\service\ConsumerService.class
+hik\taiji\springcloud\controller\UserFeignController.class
