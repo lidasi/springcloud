@@ -1,0 +1,7 @@
+hik\taiji\springcloud\serviceImpl\UserServiceImpl.class
+hik\taiji\springcloud\dao\UserDao.class
+hik\taiji\springcloud\controller\UserHystrixController.class
+hik\taiji\springcloud\controller\UserController.class
+hik\taiji\springcloud\service\UserService.class
+hik\taiji\springcloud\controller\UserFeignController.class
+hik\taiji\springcloud\SpringCloudApplication.class
